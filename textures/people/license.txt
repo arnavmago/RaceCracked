@@ -1,0 +1,11 @@
+Model Information:
+* title:	people
+* source:	https://sketchfab.com/3d-models/people-0b5dc5d4f24c4ae2b0746d855af5c423
+* author:	emredeveci1903 (https://sketchfab.com/emredeveci1903)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "people" (https://sketchfab.com/3d-models/people-0b5dc5d4f24c4ae2b0746d855af5c423) by emredeveci1903 (https://sketchfab.com/emredeveci1903) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
